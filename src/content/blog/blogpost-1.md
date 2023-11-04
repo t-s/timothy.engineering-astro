@@ -1,12 +1,12 @@
 ---
-title: Blogpost 1
+title: Snyk CTF
 pubDate: 11/03/2023 20:00
-author: "Elian Van Cutsem"
+author: "Tim Sidie"
 tags:
-  - JavaScript
-  - Astro
-  - UnoCSS
-imgUrl: '../../assets/astro.jpeg'
+  - Snyk
+  - Security
+  - CTF
+imgUrl: '../../assets/snyk.png'
 description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
 layout: '../../layouts/BlogPost.astro'
 ---
