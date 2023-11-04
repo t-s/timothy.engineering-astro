@@ -7,15 +7,17 @@ tags:
   - Security
   - CTF
 imgUrl: '../../assets/snyk.png'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: Adventures in trying my hand at a CTF competition, hosted by Snyk, Inc..
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## Deorum petiit ignis
+## Introduction
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+I recently participated in a CTF after not having attempted one for a bit. I
+wanted to brush up on skills related to developing secure web applications.
+Despite starting late and working into the early morning, I seem to have placed
+in the top 17% of participants. I'd like to review my work and maybe could be a
+resource for future CTF participants. 
 
 ## Iovis late orbem Perseus sunt
 
