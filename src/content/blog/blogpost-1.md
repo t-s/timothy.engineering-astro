@@ -16,20 +16,21 @@ layout: '../../layouts/BlogPost.astro'
 I recently participated in a CTF after not having attempted one for a bit. I
 wanted to brush up on skills related to developing secure web applications.
 Despite starting late and working into the early morning, I seem to have placed
-in the top 17% of participants. I'd like to review my work and maybe could be a
-resource for future CTF participants. 
+in the top 17% of participants, with 1232 total points. I'd like to review my 
+work and maybe could be a resource for future CTF participants. 
 
-## Iovis late orbem Perseus sunt
+## The Challenges
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+I finished a number of challenges, titled thusly:
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+- YSON
+- Nine-One-Sixteen
+- Finders Keepers
+- Rusty
+- Jott
+- Unhackable Andy
+- Back the Hawks
+- Repo Recon
 
 ## Longum minus sic saepe
 
