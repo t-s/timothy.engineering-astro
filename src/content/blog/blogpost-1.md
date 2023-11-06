@@ -32,9 +32,6 @@ I finished a number of challenges, titled thusly:
 - Back the Hawks
 - Repo Recon
 
-I also made progress on more, but didn't quite finish in time. I'll revisit
-these to finish them off.
-
 Some I feel like I made significant progress on, but got stuck and shifted to
 another problem to finish as many as I could. I took the tactic I believe
 is suggested for students taking the SAT: if a problem is taking too much time,
@@ -44,15 +41,11 @@ move on and revisit when possible.
 - Color Profile
 - Unhackable Andy II
 
-## Longum minus sic saepe
+## YSON
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
-
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+YSON was a challenge using an existing library to exploit a conversion from YAML to JSON.
+This challenge required a specific escape sequence to, as I would put it, jailbreak
+out of the process and execute arbitrary commands.
 
 ## Geminas namque quod referitur argenteus aderat superstes
 
