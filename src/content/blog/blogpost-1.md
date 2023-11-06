@@ -47,9 +47,22 @@ YSON was a challenge using an existing library to exploit a conversion from YAML
 This challenge required a specific escape sequence to, as I would put it, jailbreak
 out of the process and execute arbitrary commands.
 
-## Geminas namque quod referitur argenteus aderat superstes
+## Nine-One-Sixteen
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+## Finders Keepers
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+## Rusty
+
+## Jott
+
+## Unhackable Andy
+
+## Back the Hawks
+
+## Repo Recon
+
+## Quick Maths
+
+## Color Profile
+
+## Unhackable Andy II
